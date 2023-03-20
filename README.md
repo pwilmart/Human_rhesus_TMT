@@ -175,3 +175,7 @@ A few months ago I did a Twitter poll about factors that prevented folks from do
 75. Label axes and add plot title
 76. Make similar scatter plot for G110 ages
 77. Make similar scatter plot for G135 ages
+
+---
+
+Phil Wilmarth<br>March 20, 2023
