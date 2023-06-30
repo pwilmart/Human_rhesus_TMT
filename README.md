@@ -139,7 +139,7 @@ A few months ago I did a Twitter poll about factors that prevented folks from do
 39. Create Excel file of IRS output for rhesus FASTA results and get intensity totals by species
 40. Add PSM/peptide intensity analysis tab to data set stats workbook
 41. Get list of human protein IDs from human FASTA searches and make human FASTA subset
-42. Get list of rhesus protein IDs from rehesus FASTA searches and make rhesus FASTA subset
+42. Get list of rhesus protein IDs from rhesus FASTA searches and make rhesus FASTA subset
 43. BLAST human subset FASTA versus rhesus subset FASTA to find orthologs
 44. BLAST rhesus subset FASTA versus human subset FASTA to find orthologs
 45. Select some proteomics columns from human results for left columns in edgeR results sheet
@@ -169,8 +169,8 @@ A few months ago I did a Twitter poll about factors that prevented folks from do
 69. Average intensities for rhesus and for human for all G85 samples, respectively
 70. Copy data to scatter plot template
 71. Add human gene symbol column
-72. Need to exclude top protein in rhesus (very different abundance in human)
-73. Need to match median intensities so that slope is closer to 1
+72. Exclude top rhesus protein (very different abundance in human)
+73. Match median intensities so that slope is closer to 1
 74. Sort table by decreasing rhesus intensity
 75. Label axes and add plot title
 76. Make similar scatter plot for G110 ages
