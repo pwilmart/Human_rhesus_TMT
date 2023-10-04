@@ -2,6 +2,12 @@
 
 Analysis discussion of a multi-sample, multi-fraction, multi-kit, multi-species TMTpro experiment. How to analyze a 21 rhesus samples, 24 human samples, 45 samples total, 17 channels per plex (15 plus 2 pooled standards) in 3 plexes labeled with TMTpro 18-plex reagents experiment.
 
+## Publication
+
+Shorey-Kendrick LE, Crosland BA, Spindel ER, McEvoy CT, Wilmarth PA, Reddy AP, Zientek KD, Roberts VHJ, D’Mello RJ, Ryan KS, Olyaei AF, Hagen OL, Drake MG, McCarty OJT, Scottoline BP, Lo JO. The amniotic fluid proteome changes across gestation in humans and rhesus macaques. Sci Reports. 2023. In Press.
+
+Paper accepted October 5, 2023. This discussion was held until publication was accepted.
+
 ## Introduction
 
 Animal models are common in human health research for many reasons that we will not go into. There are ethical arguments for and against. We will not explore that, either.
