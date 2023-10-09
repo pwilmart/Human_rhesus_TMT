@@ -4,7 +4,7 @@ Analysis discussion of a multi-sample, multi-fraction, multi-kit, multi-species 
 
 ## Publication
 
-Shorey-Kendrick LE, Crosland BA, Spindel ER, McEvoy CT, Wilmarth PA, Reddy AP, Zientek KD, Roberts VHJ, D’Mello RJ, Ryan KS, Olyaei AF, Hagen OL, Drake MG, McCarty OJT, Scottoline BP, Lo JO. The amniotic fluid proteome changes across gestation in humans and rhesus macaques. Sci Reports. 2023. In Press.
+Shorey-Kendrick LE, Crosland BA, Spindel ER, McEvoy CT, Wilmarth PA, Reddy AP, Zientek KD, Roberts VHJ, D’Mello RJ, Ryan KS, Olyaei AF, Hagen OL, Drake MG, McCarty OJT, Scottoline BP, Lo JO. The amniotic fluid proteome changes across gestation in humans and rhesus macaques. Sci Rep 13, 17039 (2023). https://doi.org/10.1038/s41598-023-44125-3
 
 Paper accepted October 5, 2023. This discussion was held until publication was accepted.
 
